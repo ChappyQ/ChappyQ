@@ -1,4 +1,6 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=doyeonghyun.github&fontSize=50" />
+<div align=center>
+	<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=doyeonghyun.github&fontSize=50" />
+</div>
 
 <div align=center>
   <b>Hello! My name is Doyeong Hyun.😃<br>
