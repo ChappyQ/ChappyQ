@@ -3,9 +3,10 @@
 </div>
 
 <div align=center>
-  <b>Hello! My name is Doyeong Hyun.😃<br>
-  I'm beginning game developer.</b> I'm studying coding. <br>
-  What I've written below is what I typically use.
+  <b>Hello! My name is Doyeong Hyun.😃<br/>
+  I'm beginning game developer.</b> I'm studying coding. <br/>
+  What I've written below is what I typically use.<br/>
+  <b>I'm working on a GitHub blog (23.12.17~)<b>
 </div>
 <br>
 
