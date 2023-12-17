@@ -32,4 +32,4 @@
 <br>
 
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=nariatiar)](https://solved.ac/{handle})
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=nariatiar)](https://solved.ac/nariatiar)
