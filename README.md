@@ -7,7 +7,7 @@
   I'm beginning game developer.</b> I'm studying coding. <br/>
   What I've written below is what I typically use.<br/>
 	<br/>
-  <b>🖥️ I'm creating a GitHub blog (23.12.17~)</b>
+  <b>🖥️ I've finished my <a href="https://doyeonghyun.github.io/" target="_blank">blog</a>, come take a look!</b>
 </div>
 <br>
 
