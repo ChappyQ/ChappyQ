@@ -35,6 +35,3 @@
 	<img src="https://github-readme-stats.vercel.app/api?username=doyeonghyun&show_icons=true">
 </div>
 <br>
-
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=nariatiar)](https://solved.ac/nariatiar)
