@@ -1,9 +1,9 @@
 <div align=center>
-	<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=doyeonghyun.github&fontSize=50" />
+	<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Qchup.github&fontSize=50" />
 </div>
 
 <div align=center>
-  <b>Hello! My name is Doyeong Hyun.😃<br/>
+  <b>Hello! My name is Qchup - Doyeong Hyun.😃<br/>
   I'm beginning game developer.</b> I'm studying coding. <br/>
   The languages and tools I've written about below are the ones I typically use or am currently studying.<br/>
 	<br/>
@@ -32,6 +32,6 @@
 <br>
   
 <div align=center>
-	<img src="https://github-readme-stats.vercel.app/api?username=doyeonghyun&show_icons=true">
+	<img src="https://github-readme-stats.vercel.app/api?username=Qchup&show_icons=true">
 </div>
 <br>
