@@ -3,11 +3,11 @@
 </div>
 
 <div align=center>
-  <b>Hello! My name is Qchup - Doyeong Hyun.😃<br/>
+  <b>Hello! My name is ChappyQ - Doyeong Hyun.😃<br/>
   I'm beginning game developer.</b> I'm studying coding. <br/>
   The languages and tools I've written about below are the ones I typically use or am currently studying.<br/>
 	<br/>
-  <b>🖥️ I've finished my <a href="https://Qchup.github.io/" target="_blank">blog</a>, come take a look!</b>
+  <b>🖥️ I've finished my <a href="https://ChappyQ.github.io/" target="_blank">blog</a>, come take a look!</b>
 </div>
 <br>
 
