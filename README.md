@@ -25,13 +25,5 @@
 <div align=center>
   <p>Tool</p>
 <div>
-<div align=center>
-  <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat&logo=visualstudio&logoColor=white" />
-  <img src="https://img.shields.io/badge/Unity-000000?style=flat&logo=Unity&logoColor=white" />
-</div>
 <br>
-  
-<div align=center>
-	<img src="https://github-readme-stats.vercel.app/api?username=Qchup&show_icons=true">
-</div>
 <br>
